@@ -5,8 +5,10 @@
 
 🌱 **Currently Learning:**  
 MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+
 💬 **Ask Me About:**  
 JavaScript, Node.js, Express.js, Web Projects  
+
 📫 **Reach Me At:**  
 **psrclown@icloud.com**
 
@@ -40,11 +42,20 @@ JavaScript, Node.js, Express.js, Web Projects
 
 ---
 
-<h3 align="left">🔥 Recent Projects:</h3>
-<ul>
-  <li>🎮 <strong>Tic Tac Toe</strong> game built using HTML, CSS, and JavaScript — My first step into DOM manipulation!</li>
-  <!-- Add more projects here with bullet points -->
-</ul>
+<h3 align="left">💻 Completed Projects:</h3>
+
+- 🎮 **Tic Tac Toe Game** – Built with HTML, CSS & JavaScript  
+- 🎧 **Spotify Clone** – Frontend only using HTML & CSS  
+- 📊 **Attendance Calculator** – Reaches target percentage using JS logic  
+- 🧠 **Simon Says Game** – Memory-based game using HTML, CSS & JS  
+- 🌦️ **Weather App** – Uses real-time weather API with JS and frontend tech  
+- ✊ **Rock Paper Scissors Game** – Fun JS game with basic logic and design
+
+---
+
+<h3 align="left">🚧 Ongoing Project:</h3>
+
+- 🏡 **Airbnb Clone** – Full-stack MERN project (in development)
 
 ---
 
