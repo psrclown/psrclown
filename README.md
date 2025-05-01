@@ -10,17 +10,20 @@ MERN Stack (MongoDB, Express.js, React.js, Node.js)
 JavaScript, Node.js, Express.js, Web Projects  
 
 📫 **Reach Me At:**  
-**psrclown@icloud.com**
+📩 psrclown@icloud.com
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/psrclown" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/anshsingh_psr" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <a href="https://instagram.com/anshsingh_psr?igshid=ZGUzMzM3NWJiOQ==" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/psrclown" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
@@ -46,16 +49,16 @@ JavaScript, Node.js, Express.js, Web Projects
 
 - 🎮 **Tic Tac Toe Game** – Built with HTML, CSS & JavaScript  
 - 🎧 **Spotify Clone** – Frontend only using HTML & CSS  
-- 📊 **Attendance Calculator** – Reaches target percentage using JS logic  
+- 📊 **Attendance Calculator** – Calculates required classes to reach target % using JS  
 - 🧠 **Simon Says Game** – Memory-based game using HTML, CSS & JS  
-- 🌦️ **Weather App** – Uses real-time weather API with JS and frontend tech  
-- ✊ **Rock Paper Scissors Game** – Fun JS game with basic logic and design
+- 🌦️ **Weather App** – Fetches real-time data using Weather API  
+- ✊ **Rock Paper Scissors Game** – Classic game built using core JS logic
 
 ---
 
 <h3 align="left">🚧 Ongoing Project:</h3>
 
-- 🏡 **Airbnb Clone** – Full-stack MERN project (in development)
+- 🏡 **Airbnb Clone** – Full-stack MERN project (under development)
 
 ---
 
