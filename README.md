@@ -52,7 +52,9 @@ JavaScript, Node.js, Express.js, Web Projects
 - 📊 **Attendance Calculator** – Calculates required classes to reach target % using JS  
 - 🧠 **Simon Says Game** – Memory-based game using HTML, CSS & JS  
 - 🌦️ **Weather App** – Fetches real-time data using Weather API  
-- ✊ **Rock Paper Scissors Game** – Classic game built using core JS logic
+- ✊ **Rock Paper Scissors Game** – Classic game built using core JS logic  
+- 💱 **Currency Converter** – Converts between currencies using real-time API  
+- 🧹 **Clutter Shorter** – Simple tool to clean and format messy text/code snippets 
 
 ---
 
