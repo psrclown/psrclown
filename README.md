@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello, I'm Ansh Singh</h1>
-<h3 align="center">🚀 Aspiring MERN Stack Developer | Passionate about Building and Learning</h3>
+<h1 align="center">👋 Hey there, I'm Ansh Singh</h1>
+<h3 align="center">🚀 Aspiring MERN Stack Developer | Passionate About Building & Learning</h3>
 
 ---
 
@@ -10,16 +10,16 @@ MERN Stack (MongoDB, Express.js, React.js, Node.js)
 JavaScript, Node.js, Express.js, Web Projects  
 
 📫 **Reach Me At:**  
-📩 psrclown@icloud.com
+📩 **psrclown@icloud.com**
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🌐 Connect With Me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/psrclown" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/anshsingh_psr?igshid=ZGUzMzM3NWJiOQ==" target="_blank">
+  <a href="https://instagram.com/anshsingh_psr" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://x.com/psrclown" target="_blank">
@@ -54,13 +54,9 @@ JavaScript, Node.js, Express.js, Web Projects
 - 🌦️ **Weather App** – Fetches real-time data using Weather API  
 - ✊ **Rock Paper Scissors Game** – Classic game built using core JS logic  
 - 💱 **Currency Converter** – Converts between currencies using real-time API  
-- 🧹 **Clutter Shorter** – Simple tool to clean and format messy text/code snippets 
-
----
-
-<h3 align="left">🚧 Ongoing Project:</h3>
-
-- 🏡 **Airbnb Clone** – Full-stack MERN project (under development)
+- 🧹 **Clutter Shorter** – Tool to clean & format messy text/code snippets  
+- 🏡 **Airbnb Clone** – Full-stack MERN project with authentication, booking, and listing features  
+- 🌐 **Portfolio Website** – Personal portfolio showcasing projects, skills, and contact form  
 
 ---
 
