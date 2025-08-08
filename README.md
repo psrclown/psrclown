@@ -66,7 +66,7 @@ JavaScript, Node.js, Express.js, Web Projects
 - ✊ **Rock Paper Scissors Game** – Classic game built using core JS logic  
 - 💱 **Currency Converter** – Converts between currencies using real-time API  
 - 🧹 **Clutter Shorter** – Tool to clean & format messy text/code snippets  
-- 🏡 **Airbnb Clone** – Full-stack MERN project with authentication, booking, and listing features  
+- 🏡 **Wander Lust Clone** – Full-stack MERN project with authentication, booking, and listing features  
 - 🌐 **Portfolio Website** – Personal portfolio showcasing projects, skills, and contact form  
 
 ---
